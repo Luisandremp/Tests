@@ -1,0 +1,47 @@
+
+
+.p1{
+  color:#fff;
+  background-color:black;
+  font-family: 'Dosis', sans-serif;
+}
+
+.p2{
+  color:#00ff00;
+  font-size: 2rem;
+}
+li.p2{
+  font-size: 1rem;
+}
+
+.p3{
+  color:#ff0000;
+}
+/*
+COMENTAIRE
+*/
+
+#test{
+  color:#ff0fff;
+}
+
+h1{
+  font-weight: normal;
+  text-decoration: wavy line-through red;
+  background-color: #ccc;
+  width: 50%;
+  margin: 10px 50px;
+  padding: 0pc 50px 100px 50px;
+}
+
+.monSpan{
+  background-color:ccc;
+  color:#000;
+  font-family: 'Dosis', sans-serif;
+
+  display: inline-block;
+  padding: 20px;
+  margin: 10px;
+  border:  5px solid #000;
+
+}
