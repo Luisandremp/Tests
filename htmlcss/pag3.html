@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<style>
+		
+		ul{
+			list-style-type: none;
+			padding: 0em;
+			margin: 0em;
+			overflow: auto;
+			background: #ddd;
+
+			display: flex;
+			flex-direction: row;
+			flex-wrap: wrap;
+			justify-content: space-around; /* Pour le axis principal*/
+			align-items:  center; /* Pour le axis secondaire*/
+		}
+		li{ 
+			/* flex-grow: 1; /* le element prend tout le espace qu'il peut*/
+			margin: 5px;
+		}
+		a{
+			padding: 5px;
+			background: #bbb;
+			transition: all 0.7s ease-in-out;
+		}
+		a:hover{
+			background: #000;
+			color: #fff;
+		}
+		li:nth-child(1){
+			flex-grow: 1;
+			color: red;
+			background: red;
+		}
+		li:nth-child(2){
+			flex-grow: 2;
+			color: red;
+			background: red;
+		}
+		li:nth-child(3){
+			flex-grow: 3;
+			background: red;
+		}
+	</style>
+</head>
+<body>
+	<form action="#" method="get">
+		<fieldset>
+			<legend>Info Personel</legend>
+			<label for="nom">Nom:<input type="text" id="nom" placeholder="John Doe" name="nom" required></label> <br>
+			<label for="email">e-mail:<input type="email" id="email" placeholder="example@email.com" name="pass" required></label><br>
+			<label for="mdp">Mot de pass:<input type="password" id="mdp" placeholder="Password" name="mdp" required></label><br>
+			<label for="vmdp">Verifier Mot de pass:<input type="password" id="vmdp" placeholder="Password" name="vmdp" required></label>	<br>
+		</fieldset>
+		<hr>
+
+		<label>Check 01:<input type="checkbox" name="check1"></label>
+		<label>Check 02:<input type="checkbox" name="check2" checked></label>
+		<label>Check 03:<input type="checkbox" name="check3"></label><br>
+
+		<label for="male">Male<input type="radio" id="male" name="genre"></label>
+		<label for="female">Female<input type="radio" id="female" name="genre"></label><br>
+
+		<label for="select">Selectionner:
+			<select name="selectMe" id="select">
+				<option value="01">Option 1</option>
+				<option value="02">Option 2</option>
+				<option value="03" selected>Option 3</option>
+				<option value="04">Option 4</option>
+			</select>
+		</label>
+
+		<hr>
+
+		<br>
+		<button type="submit">Envoyé</button>
+	</form>
+	<nav>
+		<ul>
+			<li><a href="">E 01</a></li>
+			<li><a href="">Elemente 2</a></li>
+			<li><a href="">link</a></li>
+			<li><a href="">Elemente 4</a></li>
+		</ul>
+	</nav>
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis sed dicta, hic incidunt dolore quis! Deleniti commodi, minima perspiciatis incidunt exercitationem dolor. Numquam libero quia similique quis odit facere sint.</p>
+
+</body>
+</html>
