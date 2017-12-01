@@ -1,0 +1,115 @@
+Adrar
+
+DÉVELOPPEMENT (RAPPELS)
+• Principes & environnements de programmation • Méthodologies de développement
+ADMINISTRER UNE BASE DE DONNÉES
+• Modélisation (Merise, UML) • Maitrise d’un système de gestion de base de données. • Le Langage SQL
+UX/UI DESIGN : LES CONCEPTS HOMMES/MACHINES
+ANALYSE, CONCEPTION
+• Maquettage • Méthode Agile • Conception Orientée Objet (Java) • Construction d’une application métier • Réalisation et exécution de plans de tests • Mise en place & déploiement d’application
+DÉVELOPPEMENT D’UNE INTERFACE WEB & DYNAMIQUE
+• HTML / CSS / Javascript • PHP / Java JEE
+CRÉATION D’UNE APPLICATION MOBILE (JAVA)
+SUPPORT APPLICATIF
+• Conseil au choix de plateforme • Assistance à la configuration • Rédaction de documentations et spécifications techniques • Transfert de compétences utilisateur • Maintenance applicative (corrective, évolutive)
+COLLABORER, SUIVRE ET PILOTER UN PROJET
+• Analyse du besoin • Dimensionnement délais, coûts, charges, intervenants, etc. • Organisation & Planification (Pert, Gantt) • Elaboration, validation & présentation de cahier des charges • Participation, suivi du développement de l’application • Gestion collaborative des équipes
+ET AUSSI...
+• Anglais pratique, technique et professionnel • Communication professionnelle • Webmarketing & médias sociaux : le 2.0 pro • Entreprenariat et création d’entreprise • Ecosystèmes, dynamiques, enjeux et acteurs du numérique
+
+
+DJD
+
+-Nonlinear Narratives;
+-Semiotics;
+-Drawing;
+-Mathematics applied to video games;
+-Programming in C/C++, Java, Javascript
+-Game Theory;
+-2D Animation (Adobe Flash);
+-Image (photography and basic Photoshop);
+-3D Design (Blender);
+-Video;
+-Creative writing;
+-Character creation (psychologically and visually);
+-Architecture for games;
+-Computer graphics (OpenGL).
+-3D animation (Blender);
+-History, Fantasy, and Scientific Fiction;
+-Programming in Java;
+-Game Engines (Unity);
+-Motion Design (Adobe Premiere);
+-Design documents and Storyboard. 
+-Review and Critique of Games
+-Áudio
+-Visual effects
+-Project Management and Game Production
+-Artificial intelligence
+-Pre-Production Games (pre-project)
+
+Ismai - TCM
+
+Semiótica do Texto e Imagem Estática I	
+Tecnologias da Informação e Comunicação 
+Tecnologias Multimédia Distribuídas 
+Inglês	
+Teoria da Comunicação 
+Estudos Linguísticos	
+Semiótica do Texto e Imagem Estática II	
+Técnicas de Programação I	
+Estruturas Narrativas I	
+Teoria da Comunicação II	
+Tecnologias da Informação e Comunicação II	
+Tecnologias Multimédia Distribuídas II	
+Semiótica da Imagem Interactiva
+Modelação 3d	
+Sociologia da Informação	
+Sistemas de Áudio	
+Estatística Aplicada	
+Tecnologias Multimédia I	
+Tecnologias Multimédia II
+Vídeo Digital
+Direito da Comunicação
+Computação Gráfica 2d	
+Técnicas de Programação 
+Sistemas de Informação e Base de Dados
+
+Ismai - CDPM
+
+Inglês Técnico
+Matemática
+Comunicar em Língua Portuguesa
+Empreendedorismo
+Introdução à Ciência dos Computadores
+Bases de Dados
+Redes e Comunicação de Dados
+Auditoria e Segurança Informática
+Gestão de Projetos
+Comunicação, Visualização e Ferramentas Gráficas
+Programação Criativa e Artes Interativas
+Animação Multimédia e Videojogos
+Programação Multimédia e de Dispositivos Móveis
+Computação Gráfica e Animação 3D 
+Técnicas de Design e Web Design
+Criação e Tratamento Digital de Fotografia, Som e Vídeo
+Sistemas de Informação e Marketing Digital
+Ferramentas de Autor Multimédia
+Projeto 
+Estágio Curricular
+
+IPTA
+
+• Português
+• Língua Estrangeira I, II ou III (b)
+• Área de Integração
+• Educação Física
+• Tecnologias da Informação e Comunicação 
+• História da Cultura e das Artes
+• Matemática
+• Física 
+• Design, Comunicação e Audiovisuais
+• Técnicas de Multimédia
+• Projecto e Produção Multimédia
+• Formação em Contexto de Trabalho
+
+
