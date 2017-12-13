@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Page 2</title>
+		<style>
+			body{
+				margin: 0px;
+				padding: 0px;
+			}
+
+			.conteneur{
+				background-color: #ccc;
+				position: relative;
+			}
+			.conteneur h3{
+				padding: 0px;
+				margin: 0px;
+				position: absolute;
+				background-color: #fcc;
+				top: 10px;
+				bottom: 10px;
+				right: 10px;
+				left: 10px;
+				/* transform: translateY(-100%);*/
+			}
+
+			h2.star{
+				position: relative;
+				padding-left:20px;
+
+			}
+			.star::before, .star::after{
+				position: absolute;
+				color: red;
+				content: "*";
+				font-size: 2em;
+			}
+			.star::before{
+				top: -15px;
+				left: 0;
+			}
+
+			table, tr, td{
+				border: 1px solid #000;
+
+			}
+			thead, tfoot{
+				background: #666; 
+			}
+			tbody tr:nth-child(2n){
+				background: #ddd;
+			}
+		</style>
+
+
+  </head>
+  <body>
+
+		<h2>My First Form</h2>
+
+		<form method="get" action="#">
+			
+			<input type="hidden" name="cache">
+
+			<label> Log in:
+				<input type="text" name="user" placeholder="John Doe">
+				<input type="password" name="pass" placeholder="Password">
+				<input type="email" name="email" placeholder="example@email.com">
+				<input type="datetime" name="d" placeholder="11/11/1984">
+			</label>
+			</br>
+			
+			
+			<label for="range"> Power Level:</label>
+			<input type="range" name="slider">
+			<label for="color"> Color:</label>
+			<input type="color" name="coleur">
+
+			</br>
+			<label for="dropDown">Choisisez votre Thing:</label>
+			<select name="dropDown" id="thing">
+				<option value="01">thing01</option>
+				<option value="02">thing02</option>
+				<option value="03">thing03</option>
+				<option value="04">thing04</option>
+			</select>
+
+			<label for="choix">Choix:</label>
+			<label for="01">choix 01<input type="radio" id="01" name="choix"></label>
+			<label for="02">choix 02<input type="radio" id="02" name="choix"></label>
+			<label for="03">choix 03<input type="radio" id="03" name="choix"></label>
+
+			</br>
+
+			<label for="area de texte">Description:</label>
+			<textarea name="area de texte" id="" cols="30" rows="10"></textarea>
+					
+			</br>
+
+			<button type="butt">Submit</button>
+
+		</form>
+
+		<div class="conteneur">
+			<h3>Css info</h3>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		</div>
+
+		<h2 class="star">Super Titre</h2>
+
+		<table>
+			<thead>
+				<tr>
+					<th colspan="2">1</th>
+					<th>2</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>4</td>
+					<td>5</td>
+					<td>6</td>
+				</tr>
+				<tr>
+					<td>7</td>
+					<td>8</td>
+					<td>9</td>
+				</tr>
+				<tr>
+					<td>10</td>
+					<td>11</td>
+					<td>12</td>
+				</tr>
+				<tr>
+					<td>10</td>
+					<td>11</td>
+					<td>12</td>
+				</tr>
+				<tr>
+					<td>13</td>
+					<td>14</td>
+					<td>15</td>
+				</tr>
+			</tbody>
+			<tfoot>
+				<tr>
+					<th colspan="3">Footer</th>
+				</tr>
+			</tfoot>
+		</table>
+
+		<h3>types de block </h3>
+			<ul>
+				<li>blocks "flow" - ils se afiche uns apres les autres dans la ligne si il n'y a pas de espace ils se posision dans la ligne suivante</li>
+				<li>blocks "in line block"</li>
+				<li>blocks "block" - Ils essaie de se aficher a 100% de le largeur de sont parent</li>
+			</ul>
+
+			<h3>Proprietés</h3>
+			<ul><label for="ul"><strong> Display</strong></label>
+				<li>block</li>
+				<li>inline</li>
+				<li>inline block</li>
+				<li>flex</li>
+			</ul>
+
+			<ul><label for="ul"><strong>Position</strong></label>
+				<li>relative</li>
+				<li>absolute</li>
+				<li>fixed</li>
+				<li>static</li>
+			</ul>
+  </body>
+</html>
